@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is a demo repository.
 <br>
-Author - Pritom Chakraborty
+Author - Pritom & Sweta
